@@ -16,6 +16,12 @@ GITHUB_LINK - "https://github.com/diDanji/"
 #FILE NAME - Profile.py
 #GITHUB-LINK  -- https://github.com/KUTOSI-PIUS
 
+ASIA MARVIN -- S23B13/074
+ACCESS_NUMBER - B34950
+FILE NAME - profile1.py.py
+GITHUB-LINK  -- https://github.com/Asia-Marvin-4
+
+ 
 
 
 
