@@ -11,6 +11,10 @@
 #GITHUB_PROFILE - diDanji tonny dilli
 GITHUB_LINK - "https://github.com/diDanji/"
 
+#KUTOSI PIUS - S25B13/089
+#ACCESS NUMBER - B35118
+#FILE NAME - Profile.py
+
 
 
 
