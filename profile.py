@@ -8,27 +8,27 @@ class Profile:
         self.fun_fact = fun_fact
 
     def introduce(self):
-        print(f"Hi, I'm {self.name}. I love {self.favorite_language} and my hobby is {self.hobby}. Fun fact: {self.fun_fact}")
+        print(f"Hi, I'm {self.name}. I love {self.favorite_language} and my hobby is {self.hobby}.")
+        print(f"Fun fact: {self.fun_fact}")
 
     def show_stack(self):
-        print("My tech stack:")
+        print("My tech stack includes:")
         for tool in self.tech_stack:
             print(f"- {tool}")
 
     def github_link(self):
-        return f"https://github.com/diDanji/"
+        return f"https://github.com/{self.github_username}"
 
-# Create your profile
+
 my_profile = Profile(
-    name="dilli tony",
+    name="Pius Kutosi",
     favorite_language="Python",
-    hobby="Listening to hiphop & RnB",
-    tech_stack=["Python", "Django", "Git"],
-    github_username="tonny dilli",
-    fun_fact="I can solve a Rubik's cube in under a minute!"
+    hobby="Coding and Football",
+    tech_stack=["Java", "Python", "C++", "Git", "MySQL", "HTML/CSS"],
+    github_username="KUTOSI-PIUS",
+    fun_fact="I am a super introvert but i love to code. "
 )
 
-# Call the methods
 my_profile.introduce()
 my_profile.show_stack()
 print("GitHub Profile:", my_profile.github_link())
